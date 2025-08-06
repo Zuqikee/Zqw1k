@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const vhming = {
+const zuqikee = {
   name: "Nguyễn Quang Dương",
   username: "zuqikee",
   nickname: "Zqw1k",
