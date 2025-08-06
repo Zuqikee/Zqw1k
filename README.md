@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 
-"typescript
+```typescript
 const vhming = {
   name: "Nguyễn Quang Dương",
   username: "zuqikee",
@@ -12,7 +12,7 @@ const vhming = {
   location: "Vietnam 🇻🇳",
   status: "Passionate Developer 💻 | Game Plugin Developer 🎮 | Gái Cosplay Enthusiast 💋",
 };
-"
+```
 
 ## 🖼️ Artwork Gallery
 
