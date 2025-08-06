@@ -1,5 +1,9 @@
 # Zqw1k
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:e2d2e0,100:ffa7ae&text=你好%20I'm%20zuqikee!&section=header&fontAlignY=51&descAlign=44&fontAlign=50&descAlignY=57&fontSize=50&fontColor=ffffff"/>
+</div>
+
 ## 🧑‍💻 About Me
 
 ```typescript
