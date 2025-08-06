@@ -1,7 +1,7 @@
 # Zqw1k
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=你好%20I'm%20zuqikee!&strokeWidth=2&stroke=auto&fontColor=ffffff&fontSize=30&section=header&reversal=false&textBg=false"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=你好%20I'm%20zuqikee!&strokeWidth=2&stroke=auto&fontColor=ffffff&fontSize=40&section=header&reversal=false&textBg=false"/>
 </div>
 
 <div align="center">
