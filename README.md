@@ -31,7 +31,7 @@ const zuqikee = {
 
 <div align="center">
   
-*"“The minute you think of giving up, think of the reason why you held on so long.” – Natsu Dragneel*  
+*"The minute you think of giving up, think of the reason why you held on so long.” – Natsu Dragneel*  
 *“You don’t die for your friends, you live for them.” ― Erza Scarlet*
 
 </div>
