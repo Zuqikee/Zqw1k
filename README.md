@@ -4,6 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:e2d2e0,100:ffa7ae&text=你好%20I'm%20zuqikee!&section=header&fontAlignY=51&descAlign=44&fontAlign=50&descAlignY=57&fontSize=50&fontColor=ffffff"/>
 </div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&duration=2000&pause=1500&color=FFC0CB&center=true&vCenter=true&random=true&width=435&lines=Code+kh%C3%B4ng+%C4%91%C6%B0%E1%BB%A3c+th%C3%AC+%C4%91%C3%B3+l%C3%A0+t%C3%ADnh+n%C4%83ng.;Code+%C4%91%C3%A3+ch%E1%BA%A1y+th%C3%AC+%C4%91%E1%BB%ABng+t%E1%BA%AFt+m%C3%A1y;L%E1%BB%97i+%E1%BB%9F+%C4%91%C3%A2u+Comment+%E1%BB%9F+%C4%91%E1%BA%A5y.;H%C3%A3y+commit+.env+l%C3%AAn+github+%3C3;H%C3%A3y+%E1%BA%A9n+Output+Logs+khi+compile+%C4%91%E1%BB%83+tr%C3%A1nh+%C4%91au+m%E1%BA%AFt)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 ## 🧑‍💻 About Me
 
 ```typescript
