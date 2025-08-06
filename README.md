@@ -37,3 +37,26 @@ const zuqikee = {
 <img src="https://images.steamusercontent.com/ugc/2431467623665076840/8D6F1BB9975676E1DD0B28CC13674F7D012009E6/" width="150" alt="Artwork 5"/>
 
 </div>
+
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  
+### 💖 Thanks for visiting my profile! | ありがとうございます！
+
+![Visitor Count](https://komarev.com/ghpvc/?username=zuqikee&color=00D4AA&style=for-the-badge&label=VISITORS)
+
+⭐️ **If you like my work, please consider giving a star to my repositories!**
+
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*  
+*"In coding, as in anime, the journey is just as important as the destination!"/*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Happy%20Coding!%20🌸&fontAlignY=65&fontSize=24&fontColor=FFFFFF&animation=twinkling"/>
+</div>
