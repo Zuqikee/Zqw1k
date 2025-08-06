@@ -2,19 +2,17 @@
 
 ## 🧑‍💻 About Me
 
-const zuqikee = {
+"typescript
+const vhming = {
   name: "Nguyễn Quang Dương",
-  username: "Zuqikee",
+  username: "zuqikee",
   nickname: "Zqw1k",
   pronouns: "he/him",
   age: 16,
   location: "Vietnam 🇻🇳",
-  status: "Passionate Developer 💻",
-  
-  hobbies: ["Coding", "Design", "Photography", "Gaming"],
-  funFact: "I love turning coffee into code! ☕➡️💻"
   status: "Passionate Developer 💻 | Game Plugin Developer 🎮 | Gái Cosplay Enthusiast 💋",
 };
+"
 
 ## 🖼️ Artwork Gallery
 
