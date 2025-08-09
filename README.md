@@ -21,6 +21,7 @@ const zuqikee = {
   nickname: "Zqw1k",
   pronouns: "he/him",
   age: 16,
+  birthday: 31/12/2008,
   location: "Vietnam 🇻🇳",
   status: "Passionate Developer 💻 | Game Plugin Developer 🎮 | Gái Cosplay Enthusiast 💋",
 };
