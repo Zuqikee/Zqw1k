@@ -19,7 +19,7 @@ const zuqikee = {
   name: "Nguyễn Quang Dương",
   username: "zuqikee",
   nickname: "Zqw1k",
-  pronouns: "he/him",
+  pronouns: "he/him/bbi",
   age: 16,
   birthday: 31/12/2008,
   location: "Vietnam 🇻🇳",
